@@ -1,5 +1,5 @@
 package entity;
 
-public class Producto {
+public class Producto_Huilcaya {
 
 }
