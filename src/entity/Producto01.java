@@ -1,5 +1,11 @@
 package entity;
 
-public class Producto {
+/**
+ * *
+ * @author Graciela Lizet Ruiz Ramos
+ *
+ */
+
+public class Producto01 {
 
 }
