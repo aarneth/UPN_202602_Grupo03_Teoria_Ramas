@@ -2,7 +2,7 @@ package entity;
 
 /**
  * 
- * @author Graciela Ruiz Ramos
+ * @author Aaron Keneth Gonzales Cortez
  *
  */
 
