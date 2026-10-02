@@ -6,7 +6,7 @@ package model.huilcaya;
  *
  */
 
-public class ProductModel {
+public class ProductoModel {
 
 	
 	public void calcular() {
