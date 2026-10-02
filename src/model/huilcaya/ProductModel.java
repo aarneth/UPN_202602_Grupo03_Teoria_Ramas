@@ -8,4 +8,12 @@ package model.huilcaya;
 
 public class ProductModel {
 
+	
+	public void calcular() {
+		
+	}
+	
 }
+
+
+
